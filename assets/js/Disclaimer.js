@@ -6,11 +6,11 @@
 const localKeyName = 'agreed18';
 const strings = {
     welcome: 'Welcome!',
-    site_contains_adult_materials: 'This site contains sexually-oriented adult materials which may be offensive to some viewers.',
+    site_contains_adult_materials: 'This site contains adult materials which may be offensive to some viewers.',
     acknowledge_confirm_majority: 'To continue, please acknowledge and confirm you are over <span class="underline">18</span>.',
     button_over18: 'I am over 18',
     button_under18: 'I am under 18',
-    footer_imprint_paragraph: 'By entering to this website, you are agreeing to the Terms of Use and Privacy Policy.',
+    footer_imprint_paragraph: 'By entering to this website, you are agreeing a adult aswell.',
 };
 
 class Disclaimer {
