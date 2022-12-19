@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: photo_set
 ---
 
 ## Welcome to the gallery!
