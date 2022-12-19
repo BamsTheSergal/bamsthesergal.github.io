@@ -10,7 +10,7 @@ const strings = {
     acknowledge_confirm_majority: 'To continue, please acknowledge and confirm you are over <span class="underline">18</span>.',
     button_over18: 'I am over 18',
     button_under18: 'I am under 18',
-    footer_imprint_paragraph: 'By entering to this website, you are agreeing a adult aswell.',
+    footer_imprint_paragraph: 'By entering to this website, you are agreeing you are an adult aswell.',
 };
 
 class Disclaimer {
