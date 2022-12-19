@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Gallery](./another-page.html).
+[Info](./another-page.html).
 
 Text can be **bold** or _italic_
 
