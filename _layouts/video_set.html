@@ -27,7 +27,7 @@ layout: default
 <ul>
   {% for i in (1..num) %}
   <li>
-    <img src="{{ site.baseurl }}/images/photos/{{ page.photos.set }}-{{ i }}.webm" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+    <source src="{{ site.baseurl }}/images/photos/{{ page.photos.set }}-{{ i }}.webm" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">type="video/webm">
   </li>
   {% endfor %}
 </ul>
