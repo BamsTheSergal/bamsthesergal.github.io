@@ -6,5 +6,5 @@ description: "An example photo gallery."
 
 photos:
     set: solo_sergy
-    size: 3
+    size: 12
 ---
