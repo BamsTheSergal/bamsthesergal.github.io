@@ -2,10 +2,9 @@
 layout: default
 ---
 
-Text can be **bold** or _italic_
-
 [Gallery](./another-page.html).
 
+Text can be **bold** or _italic_
 
 # Header 1
 
