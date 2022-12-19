@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold** or _italic_
 
-[Link to another page](./another-page.html).
+[Gallery](./another-page.html).
 
 
 # Header 1
