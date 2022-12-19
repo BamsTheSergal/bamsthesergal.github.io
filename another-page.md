@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: photo_set
 ---
 
 [Home](./)
