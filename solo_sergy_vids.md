@@ -1,5 +1,5 @@
 ---
-layout: photo_set
+layout: video_set
 title: Solo Sergy Vids
 permalink: /solo_sergy_vids/
 description: "An example video gallery."
