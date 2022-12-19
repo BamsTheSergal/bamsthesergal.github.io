@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to the gallery!
 
 _yay_
 
-[back](./)
+[Home](./)
