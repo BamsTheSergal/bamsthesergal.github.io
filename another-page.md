@@ -2,8 +2,8 @@
 layout: default
 ---
 
-[Home](./) \n
-[Posts](./posts)
+[Home](./)              
+              [Posts](./posts)
 
 ## Severely in progress!
 
