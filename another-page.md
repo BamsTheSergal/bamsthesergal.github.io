@@ -4,14 +4,8 @@ layout: default
 
 [Home](./)
 
-Text can be **bold** or _italic_
+## Severely in progress!
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> i plan on using this for alot of small projects that don't require a non-static website, like simple comments, different pages, yt videos, etc.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
