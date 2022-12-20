@@ -3,6 +3,7 @@ layout: default
 ---
 
 [Home](./)
+[Posts](./posts)
 
 ## Severely in progress!
 
