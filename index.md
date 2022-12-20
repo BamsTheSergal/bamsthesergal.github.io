@@ -4,8 +4,6 @@ layout: default
 
 [Info](./another-page.html).
 
-Text can be **bold** or _italic_
-
 # Welcome!
 
 This is a personal website for my shenanigans, lol. feel free to comment down what you'd like to see!
