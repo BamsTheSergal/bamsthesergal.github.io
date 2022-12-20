@@ -15,3 +15,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+
+<script src="https://utteranc.es/client.js"
+        repo="BamsTheSergal/bamsthesergal.github.io"
+        issue-term="url"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+</script>
