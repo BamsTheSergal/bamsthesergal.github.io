@@ -6,20 +6,21 @@ layout: default
 
 Text can be **bold** or _italic_
 
-# Header 1
+# Welcome!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is a personal website for my shenanigans, lol. feel free to comment down what you'd like to see!
 
-## Header 2
+## Severely in progress!
 
-> This is a blockquote following a header.
+> i plan on using this for alot of small projects that don't require a non-static website, like simple comments, different pages, yt videos, etc.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
+### Comments:
 <script src="https://utteranc.es/client.js"
         repo="BamsTheSergal/bamsthesergal.github.io"
         issue-term="url"
-        theme="preferred-color-scheme"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
