@@ -1,11 +1,12 @@
 ---
-layout: post
+layout: default
 ---
 
 [Home](./)              
               [Info](./another_page)
 
-## bwog
+## Cool people:
+> Anyone that visits this, tbh c:
 
 ### Comments:
 <script src="https://utteranc.es/client.js"
