@@ -3,7 +3,7 @@ layout: default
 ---
 
 [Home](./)              
-              [Posts](./posts)
+              [Post1](./post1)
 
 ## Severely in progress!
 
