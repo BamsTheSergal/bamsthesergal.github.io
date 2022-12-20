@@ -3,7 +3,7 @@ layout: default
 ---
 
 [Home](./)              
-              [info](./another_page)
+              [Info](./another_page)
 
 ## bwog
 
