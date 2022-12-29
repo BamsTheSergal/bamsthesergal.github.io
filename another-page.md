@@ -3,6 +3,8 @@ layout: default
 ---
 
 [Home](./)              
+
+#### "Blog" posts:
 [Post1](./post1)              
 
 #### Photo galleries:
