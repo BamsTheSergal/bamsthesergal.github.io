@@ -53,7 +53,7 @@ body {
   position: absolute;
   bottom: 15px;
   left: 15px;
-  color: black;
+  color: orange;
   font-size: 20px;
 }
 
@@ -62,7 +62,7 @@ body {
   position: absolute;
   top: 10px;
   right: 15px;
-  color: black;
+  color: orange;
   font-size: 35px;
   cursor: pointer;
 }
@@ -71,29 +71,47 @@ body {
 <body>
 
 <div style="text-align:center">
-  <h2>Solo Sergy Closeups</h2>
+  <h2>Solo Sergy</h2>
   <p>Click images to expand:</p>
 </div>
 
 <!-- The four columns -->
 <div class="row">
   <div class="column">
-    <img src="1test.png" alt="test1" style="width:100%" onclick="myFunction(this);">
+    <img src="/assets/img/gallery_images/solo_sergy_close-1.jpg" alt="🧀🍰" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="2test.png" alt="test2" style="width:100%" onclick="myFunction(this);">
+    <img src="/assets/img/gallery_images/solo_sergy_close-2.jpg" alt="🧡🧀🍰" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="3test.png" alt="test3" style="width:100%" onclick="myFunction(this);">
+    <img src="/assets/img/gallery_images/solo_sergy_close-3.jpg" alt="🧀🍰" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="4test.png" alt="test4" style="width:100%" onclick="myFunction(this);">
+    <img src="/assets/img/gallery_images/solo_sergy_close-4.jpg" alt="🧀🍰" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="5test.png" alt="test5" style="width:100%" onclick="myFunction(this);">
+    <img src="/assets/img/gallery_images/solo_sergy_close-5.jpg" alt="🧀🍰" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="6test.png" alt="test6" style="width:100%" onclick="myFunction(this);">
+    <img src="/assets/img/gallery_images/solo_sergy_close-6.jpg" alt="🧀🍰" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/assets/img/gallery_images/solo_sergy_close-7.jpg" alt="🧀🍰" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/assets/img/gallery_images/solo_sergy_close-8.jpg" alt="🧀🍰" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/assets/img/gallery_images/solo_sergy_close-9.jpg" alt="🧀🍰" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/assets/img/gallery_images/solo_sergy_close-10.jpg" alt="🧀🍰" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/assets/img/gallery_images/solo_sergy_close-11.jpg" alt="🧀🍰" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/assets/img/gallery_images/solo_sergy_close-12.jpg" alt="🧀🍰" style="width:100%" onclick="myFunction(this);">
   </div>
 </div>
 
