@@ -18,10 +18,10 @@
     <img src="2test.png" alt="test2" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="3test.jpg" alt="test3" style="width:100%" onclick="myFunction(this);">
+    <img src="3test.png" alt="test3" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="4test.jpg" alt="test4" style="width:100%" onclick="myFunction(this);">
+    <img src="4test.png" alt="test4" style="width:100%" onclick="myFunction(this);">
   </div>
 </div>
 
