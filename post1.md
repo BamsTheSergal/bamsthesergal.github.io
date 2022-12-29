@@ -3,7 +3,7 @@ layout: default
 ---
 
 [Home](./)              
-              [Info](./another_page)
+              [Info](./another_page.html)
 
 ## Cool people:
 > Anyone that visits this, tbh c:
