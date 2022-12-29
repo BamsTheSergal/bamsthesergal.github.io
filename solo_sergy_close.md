@@ -4,7 +4,7 @@ layout: default
 
 [Home](./)       
 
-[Solo Sergy](./solo_sergy)       
+[Solo Sergy](./solo_sergy.html)       
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
