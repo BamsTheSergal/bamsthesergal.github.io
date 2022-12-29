@@ -64,8 +64,8 @@ body {
 <body>
 
 <div style="text-align:center">
-  <h2>Tabbed Image Gallery</h2>
-  <p>Click on the images below:</p>
+  <h2>Solo Sergy</h2>
+  <p>Click images to expand:</p>
 </div>
 
 <!-- The four columns -->
