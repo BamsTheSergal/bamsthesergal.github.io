@@ -5,7 +5,7 @@ layout: default
 [Home](./)              
 
 #### "Blog" posts:
-[Post1](./post1)              
+[Post1](./post1.html)              
 
 #### Photo galleries (Most likely NSFW):
 [Solo Sergy](./solo_sergy.html)              
