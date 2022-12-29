@@ -8,8 +8,8 @@ layout: default
 [Post1](./post1)              
 
 #### Photo galleries (Most likely NSFW):
-[Solo Sergy](./solo_sergy)              
-
+[Solo Sergy](./solo_sergy.html)              
+[Solo Sergy Closeups](./solo_sergy_close.html)              
 
 ## Severely in progress!
 
