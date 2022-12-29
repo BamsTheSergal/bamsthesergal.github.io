@@ -4,7 +4,7 @@ layout: default
 
 [Home](./)              
               [Post1](./post1)
-     [Solo Sergy](./solo_sergy)
+       [Solo Sergy](./solo_sergy)
 
 
 ## Severely in progress!
