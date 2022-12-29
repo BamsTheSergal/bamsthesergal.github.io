@@ -7,7 +7,7 @@ layout: default
 #### "Blog" posts:
 [Post1](./post1)              
 
-#### Photo galleries:
+#### Photo galleries (Most likely NSFW):
 [Solo Sergy](./solo_sergy)              
 
 
