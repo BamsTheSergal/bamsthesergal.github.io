@@ -55,7 +55,7 @@ body {
   position: absolute;
   top: 10px;
   right: 15px;
-  color: white;
+  color: black;
   font-size: 35px;
   cursor: pointer;
 }
