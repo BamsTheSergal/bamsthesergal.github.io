@@ -3,8 +3,10 @@ layout: default
 ---
 
 [Home](./)              
-              [Post1](./post1)
-                [Solo Sergy](./solo_sergy)
+[Post1](./post1)              
+
+#### Photo galleries:
+[Solo Sergy](./solo_sergy)              
 
 
 ## Severely in progress!
