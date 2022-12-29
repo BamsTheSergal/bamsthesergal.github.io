@@ -53,7 +53,7 @@ body {
   position: absolute;
   bottom: 15px;
   left: 15px;
-  color: black;
+  color: orange;
   font-size: 20px;
 }
 
@@ -62,7 +62,7 @@ body {
   position: absolute;
   top: 10px;
   right: 15px;
-  color: black;
+  color: orange;
   font-size: 35px;
   cursor: pointer;
 }
