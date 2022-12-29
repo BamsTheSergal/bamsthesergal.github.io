@@ -78,40 +78,40 @@ body {
 <!-- The four columns -->
 <div class="row">
   <div class="column">
-    <img src="/assets/img/gallery_images/solo_sergy-1.jpg" alt="Presenting and waiting." style="width:100%" onclick="myFunction(this);">
+    <span title="Presenting and waiting."><img src="/assets/img/gallery_images/solo_sergy-1.jpg" alt="Presenting and waiting." style="width:100%" onclick="myFunction(this);"></span>
   </div>
   <div class="column">
-    <img src="/assets/img/gallery_images/solo_sergy-2.jpg" alt="Cozy." style="width:100%" onclick="myFunction(this);">
+    <span title="Cozy."><img src="/assets/img/gallery_images/solo_sergy-2.jpg" alt="Cozy." style="width:100%" onclick="myFunction(this);"></span>
   </div>
   <div class="column">
-    <img src="/assets/img/gallery_images/solo_sergy-3.jpg" alt="Thinking." style="width:100%" onclick="myFunction(this);">
+    <span title="Thinking."><img src="/assets/img/gallery_images/solo_sergy-3.jpg" alt="Thinking." style="width:100%" onclick="myFunction(this);"></span>
   </div>
   <div class="column">
-    <img src="/assets/img/gallery_images/solo_sergy-4.jpg" alt="Sitting." style="width:100%" onclick="myFunction(this);">
+    <span title="Sitting."><img src="/assets/img/gallery_images/solo_sergy-4.jpg" alt="Sitting." style="width:100%" onclick="myFunction(this);"></span>
   </div>
   <div class="column">
-    <img src="/assets/img/gallery_images/solo_sergy-5.jpg" alt="Presenting and spreading." style="width:100%" onclick="myFunction(this);">
+    <span title="Presenting and spreading."><img src="/assets/img/gallery_images/solo_sergy-5.jpg" alt="Presenting and spreading." style="width:100%" onclick="myFunction(this);"></span>
   </div>
   <div class="column">
-    <img src="/assets/img/gallery_images/solo_sergy-6.jpg" alt="Hard." style="width:100%" onclick="myFunction(this);">
+    <span title="Hard."><img src="/assets/img/gallery_images/solo_sergy-6.jpg" alt="Hard." style="width:100%" onclick="myFunction(this);"></span>
   </div>
   <div class="column">
-    <img src="/assets/img/gallery_images/solo_sergy-7.jpg" alt="Oh hello there~" style="width:100%" onclick="myFunction(this);">
+    <span title="Oh hello there~"><img src="/assets/img/gallery_images/solo_sergy-7.jpg" alt="Oh hello there~" style="width:100%" onclick="myFunction(this);"></span>
   </div>
   <div class="column">
-    <img src="/assets/img/gallery_images/solo_sergy-8.jpg" alt="Come Lay with me~" style="width:100%" onclick="myFunction(this);">
+    <span title="Come Lay with me~"><img src="/assets/img/gallery_images/solo_sergy-8.jpg" alt="Come Lay with me~" style="width:100%" onclick="myFunction(this);"></span>
   </div>
   <div class="column">
-    <img src="/assets/img/gallery_images/solo_sergy-9.jpg" alt="Tum tum." style="width:100%" onclick="myFunction(this);">
+    <span title="Tum tum."><img src="/assets/img/gallery_images/solo_sergy-9.jpg" alt="Tum tum." style="width:100%" onclick="myFunction(this);"></span>
   </div>
   <div class="column">
-    <img src="/assets/img/gallery_images/solo_sergy-10.jpg" alt="Bum bum." style="width:100%" onclick="myFunction(this);">
+    <span title="Bum bum."><img src="/assets/img/gallery_images/solo_sergy-10.jpg" alt="Bum bum." style="width:100%" onclick="myFunction(this);"></span>
   </div>
   <div class="column">
-    <img src="/assets/img/gallery_images/solo_sergy-11.jpg" alt="Chillin." style="width:100%" onclick="myFunction(this);">
+    <span title="Chillin."><img src="/assets/img/gallery_images/solo_sergy-11.jpg" alt="Chillin." style="width:100%" onclick="myFunction(this);"></span>
   </div>
   <div class="column">
-    <img src="/assets/img/gallery_images/solo_sergy-12.jpg" alt="Hello again~" style="width:100%" onclick="myFunction(this);">
+    <span title="Hello again~"><img src="/assets/img/gallery_images/solo_sergy-12.jpg" alt="Hello again~" style="width:100%" onclick="myFunction(this);"></span>
   </div>
 </div>
 
