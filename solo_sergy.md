@@ -78,9 +78,6 @@ body {
 <!-- The four columns -->
 <div class="row">
   <div class="column">
-    <img src="/assets/img/gallery_images/solo_sergy-1.jpg" alt="test1" style="width:100%" onclick="myFunction(this);">
-  </div>
-  <div class="column">
     <img src="/assets/img/gallery_images/solo_sergy-1.jpg" alt="Presenting and waiting." style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
