@@ -78,22 +78,43 @@ body {
 <!-- The four columns -->
 <div class="row">
   <div class="column">
-    <img src="1test.png" alt="test1" style="width:100%" onclick="myFunction(this);">
+    <img src="/assets/img/gallery_images/solo_sergy-1.jpg" alt="test1" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="2test.png" alt="test2" style="width:100%" onclick="myFunction(this);">
+    <img src="/assets/img/gallery_images/solo_sergy-1.jpg" alt="Presenting and waiting." style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="3test.png" alt="test3" style="width:100%" onclick="myFunction(this);">
+    <img src="/assets/img/gallery_images/solo_sergy-2.jpg" alt="Cozy." style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="4test.png" alt="test4" style="width:100%" onclick="myFunction(this);">
+    <img src="/assets/img/gallery_images/solo_sergy-3.jpg" alt="Thinking." style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="5test.png" alt="test5" style="width:100%" onclick="myFunction(this);">
+    <img src="/assets/img/gallery_images/solo_sergy-4.jpg" alt="Sitting." style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="6test.png" alt="test6" style="width:100%" onclick="myFunction(this);">
+    <img src="/assets/img/gallery_images/solo_sergy-5.jpg" alt="Presenting and spreading." style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/assets/img/gallery_images/solo_sergy-6.jpg" alt="Hard." style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/assets/img/gallery_images/solo_sergy-7.jpg" alt="Oh hello there~" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/assets/img/gallery_images/solo_sergy-8.jpg" alt="Come Lay with me~" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/assets/img/gallery_images/solo_sergy-9.jpg" alt="Tum tum." style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/assets/img/gallery_images/solo_sergy-10.jpg" alt="Bum bum." style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/assets/img/gallery_images/solo_sergy-11.jpg" alt="Chillin." style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="/assets/img/gallery_images/solo_sergy-12.jpg" alt="Hello again~" style="width:100%" onclick="myFunction(this);">
   </div>
 </div>
 
