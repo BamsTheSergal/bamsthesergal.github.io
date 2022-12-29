@@ -82,6 +82,18 @@ body {
   <div class="column">
     <img src="4test.png" alt="test4" style="width:100%" onclick="myFunction(this);">
   </div>
+  <div class="column">
+    <img src="5test.png" alt="test5" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="6test.png" alt="test6" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="7test.png" alt="test7" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="8test.png" alt="test8" style="width:100%" onclick="myFunction(this);">
+  </div>
 </div>
 
 <div class="container">
