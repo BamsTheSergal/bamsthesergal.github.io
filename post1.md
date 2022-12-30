@@ -2,8 +2,8 @@
 layout: default
 ---
 
-[Home](./)              
-              [Info](./another_page.html)
+# [Home](./)              
+  # [Info](./another_page.html)
 
 ## Cool people:
 > Anyone that visits this, tbh c:
