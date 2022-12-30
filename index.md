@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Info](./another-page.html).
+# [Info](./another-page.html).
 
 # Welcome!
 
