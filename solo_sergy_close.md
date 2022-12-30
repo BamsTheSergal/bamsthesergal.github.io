@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[Home](./)       
+# [Home](./)       
 
-[Solo Sergy](./solo_sergy.html)       
+# [Solo Sergy](./solo_sergy.html)       
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
