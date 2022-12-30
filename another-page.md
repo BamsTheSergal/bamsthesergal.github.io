@@ -2,14 +2,14 @@
 layout: default
 ---
 
-[Home](./)              
+### [Home](./)              
 
-#### "Blog" posts:
-[Post1](./post1.html)              
+# "Blog" posts:
+### [Post1](./post1.html)              
 
-#### Photo galleries (Most likely NSFW):
-[Solo Sergy](./solo_sergy.html)              
-[Solo Sergy Closeups](./solo_sergy_close.html)              
+# Photo galleries (Most likely NSFW):
+### [Solo Sergy](./solo_sergy.html)              
+### [Solo Sergy Closeups](./solo_sergy_close.html)              
 
 ## Severely in progress!
 
