@@ -6,7 +6,7 @@ layout: default
 
 # Welcome!
 
-This is a personal website for my shenanigans, lol. feel free to comment down what you'd like to see!
+This is a personal place for my shenanigans, lol. feel free to comment down what you'd like to see!
 
 ### Comments:
 <script src="https://utteranc.es/client.js"
