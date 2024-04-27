@@ -14,11 +14,18 @@ layout: default
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Comments:
-<script src="https://utteranc.es/client.js"
-        repo="BamsTheSergal/bamsthesergal.github.io"
-        issue-term="pathname"
-        label="comments"
-        theme="github-light"
+<script src="https://giscus.app/client.js"
+        data-repo="BamsTheSergal/bamsthesergal.github.io"
+        data-repo-id="R_kgDOIo7Jmw"
+        data-category="General"
+        data-category-id="DIC_kwDOIo7Jm84Ce_PR"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="https://github.com/BamsTheSergal/bamsthesergal.github.io/blob/master/_sass/jekyll-theme-minimal.scss"
+        data-lang="en"
         crossorigin="anonymous"
         async>
 </script>
