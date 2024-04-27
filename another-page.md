@@ -7,10 +7,6 @@ layout: default
 # "Blog" posts:
 ### [Post1](./post1.html)              
 
-<!-- # Photo galleries (Most likely NSFW):
-### [Solo Sergy](./solo_sergy.html)              
-### [Solo Sergy Closeups](./solo_sergy_close.html)              -->
-
 ## Severely in progress!
 
 > i plan on using this for alot of small projects that don't require a non-static website, like simple comments, different pages, yt videos, etc.
